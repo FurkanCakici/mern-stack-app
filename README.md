@@ -11,4 +11,4 @@ CANLI : https://mern-stack-app-1.herokuapp.com/
 - NodeJS, ExpressJS
 - Heroku Deploy
 
-KAYNAK: https://www.youtube.com/watch?v=KyWaXA_NvT0
+KAYNAK: https://www.youtube.com/watch?v=KyWaXA_NvT0 bu videodan yararlanılmıştır.
