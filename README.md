@@ -1,6 +1,6 @@
 # MERN-STACK-APP
 
-## MERN STACK (MongoDb Express React Node) NASIL BİR YAPI OLDUĞUNU ÖĞRENMEK ÜZERE GELİŞTİRİLMİŞ BASİT BİR GİDER TAKİP UYGULAMASI 
+## MERN STACK (MongoDb Express React Node) NASIL BİR YAPI OLDUĞUNU ÖĞRENMEK İÇİN GELİŞTİRİLMİŞ BASİT BİR GİDER TAKİP UYGULAMASI 
 
 CANLI : https://mern-stack-app-1.herokuapp.com/
 
